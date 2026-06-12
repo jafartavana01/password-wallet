@@ -29,7 +29,7 @@ A **beautiful, secure, single-file** web-based password manager built entirely w
 
 ```bash
 # Clone or download
-git clone https://github.com/your-username/vault-password-wallet.git
+git clone https://github.com/jafartavana01/password-wallet.git
 cd vault-password-wallet
 
 # Run — no installation needed
